@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../shopdosuy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lamchoithui"
+	}
+}
